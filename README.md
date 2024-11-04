@@ -1,4 +1,4 @@
-# Aprendendo git com a Cirius
+# Aprendendo git com o Cirius
 
 O intuito deste repositório é aprender as melhores práticas de versionamento de projeto atrasvés de tecnologia git agregando a plataforma de códigos github.
 
